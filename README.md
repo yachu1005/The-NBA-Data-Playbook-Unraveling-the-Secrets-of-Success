@@ -6,7 +6,9 @@
 
 Team Members: Ya Chu Hsu, Ali Saadeddine, Bennett Blanco, Riris Grace, Saumya Anand, Sulaiman Alhomoud
 
-
+<br/>
+<br/>
+<br/>
 
 ## Table of Contents
 1.   Problem Definition
