@@ -20,7 +20,7 @@ Team Members: Ya Chu Hsu, Ali Saadeddine, Bennett Blanco, Riris Grace, Saumya An
 9.   References
 10.  Data Dictionaries *(Lots of tables, so it is appended)*
 
-
+<br/>
 
 ## Problem Definition
 The NBA is the pinnacle of basketball, bringing together the best talent from around the world. It is also notorious for being very player-stats-driven, which often influences the decision-making of coaching and teams. Our goal is to analyze data for players, coaches, and organizations within the NBA to get a data-driven understanding of how all of these actors interact. For the scope of this project, we’ll look at what drives the financial performance of organizations, as well as how player and team performance has affected wins/losses throughout the history of the league.
