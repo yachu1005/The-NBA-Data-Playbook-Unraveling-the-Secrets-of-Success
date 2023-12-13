@@ -59,10 +59,19 @@ https://runrepeat.com/nba-revenue-statistics
 
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 <img width="1514" alt="Screenshot 2023-12-12 at 22 32 35" src="https://github.com/yachu1005/The-NBA-Data-Playbook-Unraveling-the-Secrets-of-Success/assets/145074370/ef410abe-99ee-46de-939d-8e4a9d59b364">
 
 
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
@@ -70,6 +79,10 @@ https://runrepeat.com/nba-revenue-statistics
 <img width="1524" alt="Screenshot 2023-12-12 at 22 33 03" src="https://github.com/yachu1005/The-NBA-Data-Playbook-Unraveling-the-Secrets-of-Success/assets/145074370/962838e2-aa60-4e4d-9f3a-6ccb1f95364f">
 
 
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
