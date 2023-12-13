@@ -57,7 +57,7 @@ https://runrepeat.com/nba-revenue-statistics
 * so far ununsed --> https://www.spotrac.com/nba/
 
 
-##Tableau Dashboard
+## Tableau Dashboard
 Find the link here: https://public.tableau.com/app/profile/bennett.blanco8002/viz/nba-player-valuator/Dashboard12?publish=yes
 
 <br/>
